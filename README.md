@@ -4,6 +4,8 @@ NEED TO INSTALL REACT 17 FOR FREE CODE CAMP CERT
 
 npm i react@17 react-dom@17
 
+### added global context and a color palette that was extrapolated from the vite background color (#242424)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
