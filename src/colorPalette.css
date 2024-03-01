@@ -1,0 +1,24 @@
+:root {
+  --silver: #aaaaaa;
+  --cadet-gray: #a1a1a1;
+  --battleship-light-gray: #989898;
+  --battleship-gray: #8e8e8e;
+  --light-gray: #838383;
+  --gray: #777777;
+  --dim-gray: #696969;
+  --davy-gray: #5a5a5a;
+  --davy-gray-dark: #4a4a4a;
+  --jet-gray: #383838;
+  --eerie-black: #242424;
+  --night-black: #121212;
+  --black-1: #090909;
+  --black-2: #050505;
+  --black-3: #030303;
+  --giga-black: #000000;
+  --text-color: rgba(255, 255, 255, 0.87);
+
+  --text-bg: var(--davy-gray-dark);
+  --bar-bg: var(--black-1);
+
+  --transition: 0.3s ease-in-out all;
+}
