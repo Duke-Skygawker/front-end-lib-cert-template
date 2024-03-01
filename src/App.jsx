@@ -1,7 +1,8 @@
 import "./App.css";
-
+import { useGlobalContext } from "./Context/Context";
 function App() {
-  return <></>;
+  const { showContext } = useGlobalContext();
+  return <>{showContext}</>;
 }
 
 export default App;
